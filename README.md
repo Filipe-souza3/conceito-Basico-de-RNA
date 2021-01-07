@@ -1,6 +1,7 @@
-Normalização de dados 
-  redimencionamentos e padronização das informações antes de entrar no neuronio
-and e or
-  duas entradas de dados(nao precizou normalizar pois ja são padronizadas) apenas um neuronio
-xor
-  duas entradas, tambem não precisou normalizar, e possui 3 neuronios
+<h1 align="left">Conceitos básicos de RNA</h1>
+### Normalização de dados 
+  [Redimencionamentos e padronização das informações antes de entrar no neuronio.]
+### and e or
+  [Duas entradas de dados(nao precizou normalizar pois ja são padronizadas),possui apenas um neuronio.]
+### xor
+  [Duas entradas, tambem não precisou normalizar, possui 3 neuronios.]
